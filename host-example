@@ -1,0 +1,2 @@
+[windows]
+${windows IP}  ansible_ssh_user="Administrator" ansible_ssh_pass="${windows account password} " ansible_ssh_port=5985 ansible_connection="winrm"
