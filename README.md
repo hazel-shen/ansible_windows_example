@@ -1,3 +1,3 @@
-# Welcome to the Ansible for Windows Automation workshop!
+# This is Ansible example for Windows
 
 ![Ansible Automation Platform](https://raw.githubusercontent.com/ansible/workshops/master/images/rh-ansible-automation-platform.png)

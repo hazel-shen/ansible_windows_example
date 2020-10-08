@@ -14,7 +14,7 @@
       tasks:
         - name: Install IIS
           win_feature:
-            name: Web-Server
+            name: Web-Server 
             state: present
 
         - name: Create site directory structure
